@@ -1,0 +1,351 @@
+employee_id,employee_number,employee_name,org_path,department,job_code,job_title,job_family,employment_status,home_org_path,hourly_rate
+E100000,100000,Susan Sullivan,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,32.99
+E100001,100001,Linda Larson,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,52.74
+E100002,100002,Heather Khan,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,33.2
+E100003,100003,Jason Lloyd,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,47.13
+E100004,100004,Jeffrey Anderson,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,40.71
+E100005,100005,James Tapia,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,28.33
+E100006,100006,Christopher Wiley,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,33.03
+E100007,100007,Joan Rodriguez,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,36.85
+E100008,100008,Angela Myers,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,21.99
+E100009,100009,Crystal White,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,47.7
+E100010,100010,Daniel Jackson,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,33.57
+E100011,100011,Alexandria Poole,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,25.27
+E100012,100012,Katherine Mercer,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,44.45
+E100013,100013,Lisa Hayes,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,48.67
+E100014,100014,Crystal Burton,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,41.7
+E100015,100015,Beth Oconnor,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,53.97
+E100016,100016,Amber Terry,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,43.58
+E100017,100017,Melody Berry,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,43.81
+E100018,100018,Deborah Pitts,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,40.28
+E100019,100019,Linda Diaz,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,42.71
+E100020,100020,Jordan Bentley,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,52.08
+E100021,100021,Dr. Theresa Brewer,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,28.11
+E100022,100022,Kyle Brooks,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,37.19
+E100023,100023,Andres Coleman,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,54.62
+E100024,100024,Amy Meyer,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,19.17
+E100025,100025,Brittany Reese,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,49.6
+E100026,100026,Sylvia Cruz,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,45.61
+E100027,100027,Janet Richard,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,32.24
+E100028,100028,Nancy Hansen,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,32.38
+E100029,100029,Samantha Hess,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,45.27
+E100030,100030,Jack Pierce,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,48.07
+E100031,100031,Megan Foster,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,31.43
+E100032,100032,Sheena Jenkins,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,36.62
+E100033,100033,Adam Howard,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,36.8
+E100034,100034,Thomas Boyd,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,37.75
+E100035,100035,Mr. Keith Lopez,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,51.99
+E100036,100036,Nichole Humphrey,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,30.65
+E100037,100037,Matthew Martinez,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,43.37
+E100038,100038,Amber Dorsey,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,42.03
+E100039,100039,Yvonne Jenkins,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,32.27
+E100040,100040,Garrett Foster,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,33.25
+E100041,100041,Evelyn Terry,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,30.11
+E100042,100042,Mark Sparks,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,53.68
+E100043,100043,Stephanie Walker,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,43.79
+E100044,100044,Norma Gonzales,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,21.32
+E100045,100045,Melissa Ross,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,51.73
+E100046,100046,Melissa Mccarthy,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,32.57
+E100047,100047,Justin Holland,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,43.82
+E100048,100048,Jonathan Tyler,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,38.87
+E100049,100049,Justin Ward,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,18.29
+E100050,100050,Deanna Hutchinson,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,38.72
+E100051,100051,Brian Johnson,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,38.54
+E100052,100052,Brandon Lynch,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,50.39
+E100053,100053,Mrs. Susan Williams,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,22.29
+E100054,100054,Paul Wilson,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,25.9
+E100055,100055,Jennifer Mueller,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityA/Nursing,40.54
+E100056,100056,Lisa Bailey,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,51.62
+E100057,100057,Patricia Mcdaniel,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,42.97
+E100058,100058,Kristin Crane,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,43.32
+E100059,100059,Joshua Wilson,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,47.01
+E100060,100060,Taylor Thomas,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,51.48
+E100061,100061,Joyce Gonzales,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,46.53
+E100062,100062,Jerry Brown,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,44.09
+E100063,100063,James Ramirez,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,38.05
+E100064,100064,Blake Williams,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,53.09
+E100065,100065,Jesse Gregory,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityA/Nursing,19.47
+E100066,100066,Christine Johnson,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityA/Nursing,34.27
+E100067,100067,Michael Lawson,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityA/Nursing,34.68
+E100068,100068,Jennifer Russell,HHS/TX/FacilityA/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityA/Nursing,27.5
+E100069,100069,Brian Browning,HHS/TX/FacilityA/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityA/Nursing,28.57
+E100070,100070,Victor Martinez,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,15.89
+E100071,100071,Jennifer Hodges,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,24.05
+E100072,100072,Andrew Wilson,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityA/EVS,23.7
+E100073,100073,Mrs. Patricia Davis,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityA/EVS,29.24
+E100074,100074,Erik Bryant,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityA/EVS,17.91
+E100075,100075,Rachel Howell,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityA/EVS,29.81
+E100076,100076,Annette Mays,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,34.25
+E100077,100077,Charles Bass,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,27.95
+E100078,100078,David Nelson,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,30.21
+E100079,100079,Melissa Alvarez,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,16.44
+E100080,100080,Lisa Ortega,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,30.41
+E100081,100081,Brittany Smith,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,22.72
+E100082,100082,Derrick Sandoval,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,24.13
+E100083,100083,Dennis Bell,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,16.97
+E100084,100084,Brian Mcmillan,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,15.13
+E100085,100085,Joseph Flores,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,19.16
+E100086,100086,Alison Brock,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityA/EVS,34.53
+E100087,100087,Brandy Freeman,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,23.95
+E100088,100088,Yvette Lopez,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,15.6
+E100089,100089,Robert Doyle,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,23.04
+E100090,100090,Nicole Ramsey,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,28.15
+E100091,100091,Sara Boone,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,20.27
+E100092,100092,Monique Allen,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,17.63
+E100093,100093,Maria Pace,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,33.78
+E100094,100094,Rodney Johnson,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityA/EVS,25.4
+E100095,100095,Michael Huynh,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,15.43
+E100096,100096,Patrick Matthews,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,24.19
+E100097,100097,Randy Watson,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,23.18
+E100098,100098,Mrs. Vanessa Brown,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityA/EVS,18.95
+E100099,100099,Mrs. Jessica Elliott,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,19.42
+E100100,100100,Karen Santos,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,29.49
+E100101,100101,Christopher Butler,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityA/EVS,33.73
+E100102,100102,Christopher Thomas,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,18.91
+E100103,100103,Belinda Kelly,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityA/EVS,16.06
+E100104,100104,Lori Martinez,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityA/EVS,22.47
+E100105,100105,Dawn Cantu,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,17.38
+E100106,100106,Martin Horton,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,27.07
+E100107,100107,Tammy Pearson,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,22.44
+E100108,100108,Heather Clark,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,34.56
+E100109,100109,Christopher Nelson,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,20.41
+E100110,100110,Guy Hernandez,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityA/EVS,26.27
+E100111,100111,Steven Carter,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,32.4
+E100112,100112,Maria Moreno,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,23.34
+E100113,100113,Mary Taylor,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,16.93
+E100114,100114,Stephanie Gray,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,26.25
+E100115,100115,Kevin Dawson,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityA/EVS,32.9
+E100116,100116,Robert Sanders,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,19.89
+E100117,100117,Jonathan Black,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,33.65
+E100118,100118,Jeffrey Rogers,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,17.29
+E100119,100119,Kathryn Fuentes,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,28.03
+E100120,100120,Richard Wilkins,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,26.66
+E100121,100121,Andrea Logan,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,21.4
+E100122,100122,Christian Richards,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,20.56
+E100123,100123,Misty Hawkins,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,18.05
+E100124,100124,Matthew Castaneda,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,33.03
+E100125,100125,Julie Nicholson,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,32.9
+E100126,100126,Tiffany Perry,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,32.29
+E100127,100127,James Roberts,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,18.57
+E100128,100128,Gina Smith,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityA/EVS,17.02
+E100129,100129,Karen Burns,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,34.17
+E100130,100130,Holly Cordova DDS,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityA/EVS,22.93
+E100131,100131,Mary Burke,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,24.98
+E100132,100132,Rebecca Carrillo,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,23.7
+E100133,100133,Joy Gomez,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,18.14
+E100134,100134,Tammy Hudson,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityA/EVS,30.74
+E100135,100135,Kirsten Anderson,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,29.96
+E100136,100136,Mr. Steven Stephens,HHS/TX/FacilityA/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityA/EVS,29.81
+E100137,100137,Larry Williams,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,25.38
+E100138,100138,Heather Schneider,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,34.45
+E100139,100139,Danielle Stokes,HHS/TX/FacilityA/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityA/EVS,25.36
+E100140,100140,Rachel Levine,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,22.78
+E100141,100141,Ryan Cook,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,17.52
+E100142,100142,Carol Cobb,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,16.32
+E100143,100143,Kevin Roach,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,24.68
+E100144,100144,Timothy Martinez,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,22.32
+E100145,100145,Joshua Freeman,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,19.77
+E100146,100146,Emily Hill,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,29.9
+E100147,100147,William Contreras,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,34.64
+E100148,100148,Thomas George,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,25.87
+E100149,100149,Lisa Brown,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,32.04
+E100150,100150,Jordan Gilbert,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,21.91
+E100151,100151,Evan Ruiz,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,32.84
+E100152,100152,Tammy Lee,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,27.1
+E100153,100153,Megan Stewart,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,25.27
+E100154,100154,Jeffery Conner,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,32.43
+E100155,100155,Jennifer Mills,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,33.91
+E100156,100156,Jeffrey Stewart,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,34.55
+E100157,100157,Justin Rivera,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,31.87
+E100158,100158,Kelly Rose,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,18.32
+E100159,100159,Timothy Davidson,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,34.78
+E100160,100160,Lucas Massey,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,33.67
+E100161,100161,Pamela Martinez,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,19.44
+E100162,100162,Andrea Wallace MD,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,28.31
+E100163,100163,Amy Rogers,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,20.51
+E100164,100164,Patricia Harrison,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,34.63
+E100165,100165,Alex Kent,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,33.39
+E100166,100166,Daniel Bailey,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,28.26
+E100167,100167,Daniel Vaughn,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,26.21
+E100168,100168,Jessica Brown,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,20.85
+E100169,100169,Daniel Smith,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,24.43
+E100170,100170,Lisa Morris,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,18.86
+E100171,100171,Alexander Sanchez,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,28.9
+E100172,100172,Tammy Zuniga,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,23.51
+E100173,100173,Heather Levine,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,28.07
+E100174,100174,Todd Zhang,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,23.77
+E100175,100175,Joseph Baxter,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,25.17
+E100176,100176,Angela Michael,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,30.65
+E100177,100177,Jason Mitchell,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,17.27
+E100178,100178,Bridget Snyder,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,19.59
+E100179,100179,David Perez,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,30.34
+E100180,100180,Jessica Shah,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,34.85
+E100181,100181,George Stanton,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,23.88
+E100182,100182,Maurice Moore,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,25.8
+E100183,100183,Ashley Scott,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,21.72
+E100184,100184,Jonathan Barron,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,24.39
+E100185,100185,Michael Gross,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,15.44
+E100186,100186,Mariah Wells,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,19.16
+E100187,100187,Elaine Wilson,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,23.48
+E100188,100188,Eric Miller,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,30.55
+E100189,100189,Amy Davis,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,19.31
+E100190,100190,Michael Becker,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,33.08
+E100191,100191,Glenn Tran,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,27.23
+E100192,100192,Sean Sims,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,16.98
+E100193,100193,Christopher Hester,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,33.47
+E100194,100194,Catherine Rosales,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,21.45
+E100195,100195,Alex Morton,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,28.56
+E100196,100196,Kristopher Mccoy,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,32.54
+E100197,100197,Michael Williams,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,29.56
+E100198,100198,Sue Martinez,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,33.69
+E100199,100199,Charles Wilson,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PRN,HHS/TX/FacilityA/HR,23.32
+E100200,100200,William Ramos,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PRN,HHS/TX/FacilityA/HR,22.49
+E100201,100201,Daniel Farmer,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,17.83
+E100202,100202,Tina Andrews,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,17.86
+E100203,100203,Clinton Velazquez,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,PT,HHS/TX/FacilityA/HR,18.18
+E100204,100204,Kevin Barker,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,21.76
+E100205,100205,Madison Chavez,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,FT,HHS/TX/FacilityA/HR,27.68
+E100206,100206,Annette Blankenship,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,20.04
+E100207,100207,Daniel Johnson,HHS/TX/FacilityA/HR,HR,RECR,Recruiter,HR,FT,HHS/TX/FacilityA/HR,25.6
+E100208,100208,Johnny Vega,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,18.24
+E100209,100209,Kylie Hutchinson,HHS/TX/FacilityA/HR,HR,HRBP,HR Business Partner,HR,PT,HHS/TX/FacilityA/HR,33.97
+E100210,100210,Jason Brooks,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,24.24
+E100211,100211,Jermaine Lyons,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,20.01
+E100212,100212,Lisa Sanders,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,22.24
+E100213,100213,Steven Ramos,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,29.48
+E100214,100214,Theresa Allen,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,46.17
+E100215,100215,Jonathan Morgan,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,21.45
+E100216,100216,Ryan Fuller,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,43.96
+E100217,100217,Mr. Robert Turner PhD,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,50.89
+E100218,100218,Natalie Hayes,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityB/Nursing,37.61
+E100219,100219,Anthony Walton,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityB/Nursing,41.2
+E100220,100220,Rhonda Yu,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,24.7
+E100221,100221,Holly Lang,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,31.65
+E100222,100222,Tamara Rush,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,18.75
+E100223,100223,Virginia Walters,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,18.36
+E100224,100224,Karen Melendez,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,42.89
+E100225,100225,Christopher Smith,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,41.44
+E100226,100226,Sherry Matthews,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,38.24
+E100227,100227,Mark Scott,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,19.52
+E100228,100228,Miranda Lopez,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,34.4
+E100229,100229,Jonathan Beltran,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,25.95
+E100230,100230,Robin Harper,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,39.24
+E100231,100231,Paul Hall,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,27.85
+E100232,100232,Ian Glover,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,49.45
+E100233,100233,William Smith,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,49.19
+E100234,100234,Robert Ballard,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityB/Nursing,43.89
+E100235,100235,Christopher Gonzales,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,25.93
+E100236,100236,Seth Tapia,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,18.96
+E100237,100237,Jonathan Chavez,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,43.27
+E100238,100238,Carrie Morgan,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityB/Nursing,39.55
+E100239,100239,James Wilson DDS,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,48.82
+E100240,100240,Vanessa Robinson,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,34.9
+E100241,100241,Sheila Frye,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,43.87
+E100242,100242,Jose Gray,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,37.61
+E100243,100243,Richard Young,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,48.97
+E100244,100244,Angela Jones,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,36.76
+E100245,100245,Colin Tran,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,30.44
+E100246,100246,Justin Lane,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,27.87
+E100247,100247,Grace Mendoza,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,41.26
+E100248,100248,Jonathan Barnett,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,42.65
+E100249,100249,William Long,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,28.88
+E100250,100250,Bobby Mcdonald,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,22.68
+E100251,100251,Antonio Holt,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,39.5
+E100252,100252,Michelle Graham,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,31.56
+E100253,100253,Adam Beltran,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,52.01
+E100254,100254,Kara Mendoza,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,35.59
+E100255,100255,Vincent Evans,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,37.95
+E100256,100256,Destiny Freeman,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,23.91
+E100257,100257,David Stevenson,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,47.49
+E100258,100258,Brian Matthews,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,34.39
+E100259,100259,Jonathan Garrett,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,19.54
+E100260,100260,Jessica Johnson,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityB/Nursing,44.36
+E100261,100261,Shannon Villarreal,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,36.51
+E100262,100262,Harold Johnson,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,22.96
+E100263,100263,Jessica Rice,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,30.77
+E100264,100264,Caitlin Williams,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,54.12
+E100265,100265,William Johnson,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,40.55
+E100266,100266,Kathryn Prince,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,30.4
+E100267,100267,Mark Bell,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,47.28
+E100268,100268,Lance Ramirez,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,34.02
+E100269,100269,Jennifer Ashley,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PT,HHS/TX/FacilityB/Nursing,30.89
+E100270,100270,Carla Phillips,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,37.75
+E100271,100271,Clinton Gilbert,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,FT,HHS/TX/FacilityB/Nursing,45.37
+E100272,100272,Parker Nichols,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityB/Nursing,32.66
+E100273,100273,Sheri Chandler,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PRN,HHS/TX/FacilityB/Nursing,28.66
+E100274,100274,Lauren Brady,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,50.2
+E100275,100275,Justin Barr,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,PRN,HHS/TX/FacilityB/Nursing,37.0
+E100276,100276,Sheena Johnson,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,28.35
+E100277,100277,Thomas Gonzalez,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,42.0
+E100278,100278,Karen Atkinson,HHS/TX/FacilityB/Nursing,Nursing,PCT,Patient Care Tech,Nursing,FT,HHS/TX/FacilityB/Nursing,40.19
+E100279,100279,Christy Hess,HHS/TX/FacilityB/Nursing,Nursing,RN,Registered Nurse,Nursing,PT,HHS/TX/FacilityB/Nursing,44.54
+E100280,100280,Jennifer Wright,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,22.1
+E100281,100281,Joseph Chapman,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,29.09
+E100282,100282,Lisa Murphy,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,24.57
+E100283,100283,Sean Harrell,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,34.86
+E100284,100284,Matthew Hanson,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,34.7
+E100285,100285,Daniel Jones,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,23.39
+E100286,100286,Miss Andrea Bradshaw MD,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,17.51
+E100287,100287,Danielle Everett,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,28.84
+E100288,100288,Paula Burns,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,27.96
+E100289,100289,Anthony Phillips,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,34.14
+E100290,100290,Susan Roy,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,28.96
+E100291,100291,Dr. Joseph Weber,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,18.06
+E100292,100292,Ashley Ward,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,34.39
+E100293,100293,Mark Kennedy,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,24.77
+E100294,100294,Kimberly Cochran,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,19.87
+E100295,100295,Nicholas Singleton,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,29.92
+E100296,100296,Gabriel Russell,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,30.63
+E100297,100297,Diamond Santiago,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,26.73
+E100298,100298,James Hall,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,23.69
+E100299,100299,Steven Barnes,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,33.46
+E100300,100300,Lori Hawkins,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,28.14
+E100301,100301,Amber Lee,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,15.49
+E100302,100302,Kelly Adkins,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,25.57
+E100303,100303,Ralph Wilson DDS,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,15.92
+E100304,100304,Chloe Delgado,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,18.01
+E100305,100305,Dominique Garcia,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,31.69
+E100306,100306,Kimberly Marshall,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,15.36
+E100307,100307,Dawn Ellis,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,27.05
+E100308,100308,Nicole Lamb,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,20.22
+E100309,100309,Susan Freeman,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,16.15
+E100310,100310,Heather Bullock,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,23.34
+E100311,100311,Tyler Johnson,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,32.06
+E100312,100312,Haley Jones,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,29.71
+E100313,100313,Kimberly Brown,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,22.96
+E100314,100314,Eric Roberts,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,15.99
+E100315,100315,James Mckinney,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,21.78
+E100316,100316,Benjamin Vaughn,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,25.15
+E100317,100317,Frank Sexton,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,31.99
+E100318,100318,Mitchell Schmidt,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,31.25
+E100319,100319,Mark Frost,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,15.41
+E100320,100320,Donald Parker,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,25.82
+E100321,100321,Paul Mendoza,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,21.05
+E100322,100322,Shelly Garza,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,19.25
+E100323,100323,Debra Jones,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,16.36
+E100324,100324,Deanna Calderon,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,19.36
+E100325,100325,Kelly Sparks,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,34.97
+E100326,100326,Michelle Bell,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,28.02
+E100327,100327,Darren Jones,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,27.6
+E100328,100328,Derrick Wallace,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,25.69
+E100329,100329,Michael Wright,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,21.73
+E100330,100330,Philip Carroll,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,16.16
+E100331,100331,Courtney Garcia,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,32.26
+E100332,100332,Brandon Jones,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,29.82
+E100333,100333,Joseph Wood,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,15.31
+E100334,100334,Amy Marshall,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,20.98
+E100335,100335,Gregory Stevenson,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,17.92
+E100336,100336,Whitney Morris,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,16.11
+E100337,100337,Tammy Velazquez,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,21.53
+E100338,100338,Christopher Santiago,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PRN,HHS/TX/FacilityB/EVS,33.02
+E100339,100339,Sarah Zimmerman,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,28.95
+E100340,100340,Mr. Robert Crane,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,18.56
+E100341,100341,Aaron Hopkins,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,28.34
+E100342,100342,Anthony Allen,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,32.38
+E100343,100343,David Blevins,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,FT,HHS/TX/FacilityB/EVS,18.77
+E100344,100344,Dawn Hall,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,16.3
+E100345,100345,Joshua Hughes,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,FT,HHS/TX/FacilityB/EVS,31.0
+E100346,100346,Desiree Nichols,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PRN,HHS/TX/FacilityB/EVS,28.05
+E100347,100347,John Dunn,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,17.09
+E100348,100348,Joseph Mcmahon,HHS/TX/FacilityB/EVS,EVS,LEAD,EVS Lead,EVS,PT,HHS/TX/FacilityB/EVS,16.55
+E100349,100349,Nicole Flores,HHS/TX/FacilityB/EVS,EVS,EVS,Environmental Services Tech,EVS,PT,HHS/TX/FacilityB/EVS,34.81

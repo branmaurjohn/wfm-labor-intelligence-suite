@@ -1,0 +1,25 @@
+seed: 7116
+days: 90
+orgs:
+  - "HHS/TX/FacilityA/Nursing"
+  - "HHS/TX/FacilityA/EVS"
+  - "HHS/TX/FacilityA/HR"
+  - "HHS/TX/FacilityB/Nursing"
+  - "HHS/TX/FacilityB/EVS"
+jobs:
+  Nursing:
+    - { job_code: "RN", job_title: "Registered Nurse", job_family: "Nursing" }
+    - { job_code: "PCT", job_title: "Patient Care Tech", job_family: "Nursing" }
+  EVS:
+    - { job_code: "EVS", job_title: "Environmental Services Tech", job_family: "EVS" }
+    - { job_code: "LEAD", job_title: "EVS Lead", job_family: "EVS" }
+  HR:
+    - { job_code: "RECR", job_title: "Recruiter", job_family: "HR" }
+    - { job_code: "HRBP", job_title: "HR Business Partner", job_family: "HR" }
+paycodes:
+  - "REG"
+  - "OT"
+  - "DT"
+  - "CALL"
+  - "PTO"
+  - "HOL"
