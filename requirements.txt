@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+plotly
+kaleido
+jupyter
+scikit-learn
+faker
+pyyaml
