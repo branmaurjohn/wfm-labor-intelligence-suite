@@ -44,6 +44,7 @@ def shift_bucket_from_start(start_hour: int) -> str:
 
 
 def generate_employees(cfg: Config, fake: Faker, n_per_org: int = 80) -> pd.DataFrame:
+    
     rows = []
     emp_num = 100000
     for org_path in cfg.orgs:

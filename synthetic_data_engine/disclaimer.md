@@ -8,6 +8,7 @@ typical workforce management (WFM) datasets (schedules, timecards, org hierarchy
 - **No customer/environment identifiers** (facility codes, tenant URLs, dataset names, etc.) are included.
 
 All examples and outputs are intended for demonstration of:
+
 - UKG Pro WFM analytics patterns
 - BigQuery-style transformation logic
 - Power BI semantic modeling patterns
